@@ -1,0 +1,65 @@
+.container-blog-items .blog-title{
+    padding: 60px 10px;
+}
+
+.container-blog-items .blog-title h1{
+    color: white;
+    background-color:rgb(245, 200, 45);
+    font-size: 2.2rem;
+    height: 50px;
+    width:150px;
+    text-align: center;
+}
+.container-blog-items .blog-title h2{
+    color: gray;
+    font-size: 1.1rem;
+    font-weight: bold;
+    line-height: 75px;
+}
+.blog-title h1{
+    padding-top: 10px;
+    padding-left:85px ;
+
+}
+
+.blog-items{
+    padding-left: 150px;
+    
+}
+
+.details{
+    width: 500px;
+
+}
+
+.details .picture img{
+    width: 500px;
+    height: 255px;
+}
+
+.date{
+    top: 80%;
+    left: 75%;
+    background-color:rgb(245, 200, 45);
+    color: white;
+    width: 90px;
+    height: 60px;
+    text-align: center;
+    font-size: 1.3rem;
+    font-weight: bold;
+    padding: 7px 0;
+}
+.other-details{
+    padding: 0px 50px;
+   text-align: center;
+}
+.other-details h5{
+   padding-left: 5%;
+   padding-top:5% ;
+    color:gray;
+}
+.other-details p{
+    font-size: 1.2rem;
+    font-weight: bold;
+    padding-bottom: 35px;
+}

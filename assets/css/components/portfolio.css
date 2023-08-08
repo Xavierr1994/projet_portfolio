@@ -1,0 +1,47 @@
+.container-items .title{
+    padding: 60px 15px;
+}
+.container-items .title h1{
+    color: white;
+    background-color:rgb(245, 200, 45);
+    font-size: 2rem;
+    height: 50px;
+    width:200px;
+    text-align: center;
+    padding-top: 25px;
+    padding-left:70px ;
+}
+
+
+.container-items .title h2{
+   line-height: 90px;
+   color:gray;
+   font-size: 1.1rem;
+   font-weight: bold;
+}
+.container-items .subtitle{
+   padding-left:420px;
+}
+.container-items .subtitle h4{
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: white;
+    background-color:rgb(245, 200, 45); 
+    width: 75px;
+    height: 50px;
+    text-align: center;
+    padding-top: 20px;
+}
+.container-items .subtitle h5{
+   line-height: 65px;
+   color: gray;
+   font-size: 1.1rem;
+}
+
+.container-picture #picture img{
+    width:350px;
+    height: 250px;
+}
+.container-picture{
+   padding:15px 80px;
+}

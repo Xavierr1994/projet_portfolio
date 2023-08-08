@@ -1,0 +1,324 @@
+/************************** SECTION ITEMS  ***************************************/
+
+
+/**************************  ITEM TOP  ***************************************/
+
+section.items .item-top{
+ padding-top: 55px;
+}
+
+section.items .item-top h1{
+ color: white;
+ background-color:rgb(245, 200, 45);
+ font-size: 2rem;
+ height: 50px;
+ width:200px;
+}
+.item-top h1{
+    text-align: center;
+    padding-top: 25px;
+    padding-left:70px ;
+}
+.item-top p{
+   line-height:70px;
+   color:gray;
+   font-size: 1.1rem;
+   font-weight: bold;
+   
+}
+
+/**************************************** ITEM CENTER  ********************************************/
+.item-presentation{
+    width: 68%;
+    padding-left:100px;
+    padding-top:35px ;
+}
+
+.item-center .item-presentation h2{
+    font-size: 1.5rem;
+}
+.item-center .item-presentation p{
+    color: gray;
+    text-align: justify;
+    font-size: 0.9rem;
+}
+
+.item-navigation #testimonial h3{
+    font-size: 1.5rem;
+    padding-top: 35px;
+    text-decoration: underline;
+    text-decoration-color:rgb(245, 200, 45);
+
+}
+.item-navigation #testimonial p{
+    margin:5px 90px;
+    padding: 50px 45px;
+    letter-spacing: 0.08em;
+    text-align:center;
+    width: 32%;
+    height: 98px;
+    border: 1px solid #efefef;
+    color: gray;
+
+}
+
+.item-navigation .profile-items #picture img{
+    width: 88px;
+    border-radius: 50px;
+    border: 1px solid #efefef;
+    margin-bottom:60px ;
+    margin-left:35px ;
+}
+
+.profile-items #complete-items .complete-item{
+    padding: 25px 5px;
+}
+.complete-item .name{
+    padding-top:44px ;
+    
+}
+.complete-item .name .name1{
+    font-size: 1.2rem;
+    color: black;
+    font-weight: bold;
+}
+.complete-item .name .name2{
+    font-size: 0.9rem;
+    color: gray;
+    font-weight: bold;
+    padding-top: 5px;
+}
+.icon-slide{
+    right: 21%;
+    top: 50%; 
+}
+
+
+.icon-prev .fa-chevron-left{
+    background-color: #ccc;
+    padding: 10px;
+}
+.icon-next .fa-chevron-right{
+    background-color: #ccc;
+    padding: 10px;
+}
+
+
+/**************************************** SECTION SERVICES  **************************************************/
+
+.article{
+    text-align: center;
+    width: 74%;
+    padding-left: 35px;
+}
+.article p{
+ color: gray;
+ padding: 0 35px;
+}
+section#services #title h1{
+    padding-left: 97px;
+}
+section#services{
+    padding-top: 40px;
+}
+
+section#services #title h1{
+    font-size: 1.2rem;
+    text-decoration: underline;
+    text-decoration-color:rgb(245, 200, 55); 
+}
+
+.article .services-1 img{
+    width: 60px;
+}
+.article .services-2 img{
+    width: 55px;
+}
+.article .services-3 img{
+    width: 60px;
+}
+.article .services-4 img{
+    width: 60px;
+}
+
+.article .services-1 h2{
+    font-size: 0.8rem;
+    padding-top:15px ;
+}
+.article .services-2 h2{
+    font-size: 0.8rem;
+    padding-top:10px ;
+}
+
+.article .services-3 h2{
+    font-size: 0.8rem;
+    padding-top:20px ;
+}
+.article .services-4 h2{
+    font-size: 0.8rem;
+    padding-top:20px ;
+}
+
+/**********************************SECTION NAVIGATION **************************************/
+section.navigation{
+    padding-top: 25px;
+}
+#navigation .navigation-title h1{
+    font-size: 1.2rem;
+    text-decoration: underline;
+    text-decoration-color:rgb(245, 200, 55);
+    padding-top: 10px; 
+    padding-left: 52px; 
+}
+#navigation {
+    padding: 15px 30px;
+    width: 72%;
+}
+
+
+.navigation-items{
+    padding-left: 45px;
+}
+.navigation-items .navigation-item-client-1 img{
+    width:95px;
+}
+.navigation-items .navigation-item-client-2 img{
+    width: 100px;
+}
+.navigation-items .navigation-item-client-3 img{
+    width: 100px;
+}
+.navigation-items .navigation-item-client-4 img{
+    width: 100px;
+}
+.navigation-items .navigation-item-client-5 img{
+    width: 100px;
+}
+.navigation-items .navigation-item-client-6 img{
+    width: 100px;
+}
+
+/**********************************SECTION BROWSE**************************************/
+section.browse{
+    padding-top: 45px;
+}
+#browse .browse-title h1{
+    font-size: 1.2rem;
+    text-decoration: underline;
+    text-decoration-color:rgb(245, 200, 55);
+    padding-top: 10px; 
+    padding-left: 74px; 
+}
+.browse-items .browse-item{
+    padding-left: 23px;
+}
+.browse-items .browse-item i{
+    font-size: 3.8rem;
+    color:gray;
+}
+.browse-item1 h2{
+   font-size: 0.9rem;
+   margin-left:45px;
+   margin-top:20px;
+   padding-top:1px;
+}
+.browse-item2 h2{
+   font-size: 0.9rem;
+   margin-left:45px;
+   margin-top:20px;
+   padding-top:1px;
+}
+.browse-item3 h2{
+   font-size: 0.9rem;
+   margin-left:48px;
+   margin-top:20px;
+   padding-top:1px;
+}
+.browse-item4 h2{
+   font-size: 0.9rem;
+   margin-left:32px;
+   margin-top:20px;
+   padding-top:1px;
+}
+.browse-item1{
+    margin-left: 55px;
+    width: 180px;
+    height: 150px;
+    padding: 28px 10px;
+    
+}
+.browse-item2{
+    margin-left: 55px;
+    width: 180px;
+    height: 150px;
+    padding: 28px 10px;
+    
+}
+.browse-item3{
+    margin-left: 55px;
+    width: 180px;
+    height: 150px;
+    padding: 28px 10px;
+    
+}
+.browse-item4{
+    margin-left: 55px;
+    width: 180px;
+    height: 150px;
+    padding: 28px 10px;
+    
+}
+
+.browse-items{
+    width:100%;
+}
+.browse-item1 .number1{
+    color: rgb(245, 200, 55);
+    margin-left:60px;
+    padding-top:5px;
+    font-size: 1.5rem;
+}
+.browse-item2 .number2{
+    color: rgb(245, 200, 55);
+    margin-left:64px;
+    padding-top:5px;
+    font-size: 1.5rem;
+}
+.browse-item3 .number3{
+    color: rgb(245, 200, 55);
+    margin-left:77px;
+    padding-top:5px;
+    font-size: 1.5rem;
+}
+.browse-item4 .number4{
+    color: rgb(245, 200, 55);
+    margin-left:60px;
+    padding-top:5px;
+    font-size: 1.5rem;
+}
+
+.fa-face-smile{
+   margin-left: 65px;
+   padding-top: 10px; 
+}
+.fa-clock{
+   margin-left: 65px;
+   padding-top: 10px; 
+   
+}
+.fa-award{
+    margin-left: 68px;
+    padding-top: 10px; 
+    
+}
+.fa-mug-hot{
+    margin-left: 68px; 
+    padding-top: 10px; 
+}
+
+
+
+@media screen and (max-width: 572px){
+   
+}
+
